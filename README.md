@@ -34,3 +34,4 @@ Components have been selected and the initial schematic has been created.
 
 ## Author
 Personal electronics project focused on learning embedded systems, robotics, and hardware design.
+![Badges](images/badges.png)
