@@ -1,5 +1,7 @@
 # ESP32 Rover
 
+![AI Sketch](images/AI_Sketch.png)
+
 Project developed as part of the **Statis Hack Club** program.
 
 ## Overview
@@ -23,6 +25,8 @@ Main components used in this project:
 - TP4056 Charging Module
 - 3.7V LiPo Battery
 - Capacitors (470µF and 0.1µF)
+
+![Components list](images/Components.png)
 
 ## Project Status
 The project is currently in the **design phase**.  
