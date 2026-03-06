@@ -1,4 +1,4 @@
-# ESP32 FPV Rover
+# ESP32 Rover
 
 Project developed as part of the **Statis Hack Club** program.
 
