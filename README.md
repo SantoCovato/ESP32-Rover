@@ -28,8 +28,7 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 - GitHub repository structure prepared  
 - CAD and PCB designs will be added once components arrive
 
-## Visuals
-### Wiring / Schematic
+## Wiring / Schematic
 ![Schematic](schematics/schematics.png)  
 *Initial wiring schematic on perfboard.*
 
