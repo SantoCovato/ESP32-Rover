@@ -36,17 +36,17 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 
 | Name                    | Purpose                     | Cost (USD) | Qty | Total (USD) | Link | Distributor |
 |-------------------------|----------------------------|------------|-----|-------------|------|------------|
-| Dupont wires            | Connect the components     | $4.55      | 1   | $4.55       |      | Aliexpress |
-| Perfboard 7x9 cm        | PCB                        | $1.85      | 1   | $1.85       |      | Aliexpress |
-| Switch                  | Turn ON/OFF                | $1.55      | 1   | $1.55       |      | Aliexpress |
-| TP4056                  | Charging the battery       | $1.05      | 1   | $1.05       |      | Aliexpress |
-| 0.1 uF Ceramic Capacitor| Clean the signal           | $1.69      | 1   | $1.69       |      | Aliexpress |
-| 470uF Capacitor         | Clean the signal           | $2.70      | 1   | $2.70       |      | Aliexpress |
-| Driver DC Motor         | To control the DC Motor    | $1.59      | 1   | $1.59       |      | Aliexpress |
-| DC Motor N20            | Motor for accelerating     | $2.56      | 1   | $2.56       |      | Aliexpress |
-| Battery                 | Battery                    | $7.98      | 1   | $7.98       |      | Aliexpress |
-| Mg90s                   | Servo                      | $2.72      | 2   | $5.44       |      | Aliexpress |
-| ESP32 CAM               | Microcontroller            | $9.07      | 1   | $9.07       |      | Aliexpress |
+| Dupont wires            | Connect the components     | $4.55      | 1   | $4.55       | [Link](https://a.aliexpress.com/_EGRf2fa) | Aliexpress |
+| Perfboard 7x9 cm        | PCB                        | $1.85      | 1   | $1.85       | [Link](https://a.aliexpress.com/_EvbAwuk) | Aliexpress |
+| Switch SPDT             | Turn ON/OFF                | $1.55      | 1   | $1.55       | [Link](https://a.aliexpress.com/_Evqcg5m) | Aliexpress |
+| TP4056                  | Charging the battery       | $1.05      | 1   | $1.05       | [Link](https://a.aliexpress.com/_EjiYpcC) | Aliexpress |
+| 0.1 uF Ceramic Capacitor| Clean the signal           | $1.69      | 1   | $1.69       | [Link](https://a.aliexpress.com/_Ew1eT1w) | Aliexpress |
+| 470uF Capacitor         | Clean the signal           | $2.70      | 1   | $2.70       | [Link](https://a.aliexpress.com/_Evkplnq) | Aliexpress |
+| Driver DC Motor         | To control the DC Motor    | $1.59      | 1   | $1.59       | [Link](https://a.aliexpress.com/_EQPhMU4) | Aliexpress |
+| DC Motor N20            | Motor for accelerating     | $2.56      | 1   | $2.56       | [Link](https://a.aliexpress.com/_EJ0CTc0) | Aliexpress |
+| Battery 3.7V LiPo       | Battery                    | $7.98      | 1   | $7.98       | [Link](https://a.aliexpress.com/_EyYiXc0) | Aliexpress |
+| Mg90s Servo Motor        | Servo                      | $2.72      | 2   | $5.44       | [Link](https://a.aliexpress.com/_Ezk8gb6) | Aliexpress |
+| ESP32 CAM               | Microcontroller            | $9.07      | 1   | $9.07       | [Link](https://a.aliexpress.com/_EyLcHOy) | Aliexpress |
 
 ## Author
 Personal electronics project focused on **learning embedded systems, robotics, and hardware design**.
