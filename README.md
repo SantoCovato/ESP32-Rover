@@ -30,7 +30,7 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 
 ## Visuals
 ### Wiring / Schematic
-![Schematic](images/schematic.png)  
+![Schematic](schematics/schematics.png)  
 *Initial wiring schematic on perfboard.*
 
 ## Bill of Materials (BOM)
