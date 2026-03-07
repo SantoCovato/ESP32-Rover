@@ -52,3 +52,4 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 
 ## Author
 Personal electronics project focused on **learning embedded systems, robotics, and hardware design**.
+![Badges](images/badges.png)
