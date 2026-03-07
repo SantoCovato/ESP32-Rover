@@ -30,7 +30,9 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 - CAD and PCB designs will be added once components arrive
 
 ## Wiring / Schematic
+
 ![Schematic](schematics/schematics.png)  
+
 *Initial wiring schematic on perfboard.*
 
 ## Bill of Materials (BOM)
@@ -52,4 +54,5 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 
 ## Author
 Personal electronics project focused on **learning embedded systems, robotics, and hardware design**.
+
 ![Badges](images/badges.png)
