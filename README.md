@@ -19,7 +19,8 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 - MX1508 Motor Driver  
 - TP4056 Charging Module  
 - 3.7V LiPo Battery  
-- Capacitors (470µF and 0.1µF)
+- Capacitors (470µF and 0.1µF(x3))
+- 100kΩ Resistor (x2)
 
 ## Project Status
 - Design phase completed  
@@ -45,8 +46,9 @@ I wanted to **practice hands-on electronics and robotics** and explore power dis
 | Driver DC Motor         | To control the DC Motor    | $1.59      | 1   | $1.59       | [Link](https://a.aliexpress.com/_EQPhMU4) | Aliexpress |
 | DC Motor N20            | Motor for accelerating     | $2.56      | 1   | $2.56       | [Link](https://a.aliexpress.com/_EJ0CTc0) | Aliexpress |
 | Battery 3.7V LiPo       | Battery                    | $7.98      | 1   | $7.98       | [Link](https://a.aliexpress.com/_EyYiXc0) | Aliexpress |
-| Mg90s Servo Motor        | Servo                      | $2.72      | 2   | $5.44       | [Link](https://a.aliexpress.com/_Ezk8gb6) | Aliexpress |
+| Mg90s Servo Motor       | Servo                      | $2.72      | 2   | $5.44       | [Link](https://a.aliexpress.com/_Ezk8gb6) | Aliexpress |
 | ESP32 CAM               | Microcontroller            | $9.07      | 1   | $9.07       | [Link](https://a.aliexpress.com/_EyLcHOy) | Aliexpress |
+| 100kΩ Resistors         | Read the battery percentage| $1.58      | 1   | $1.58       | [Link](https://a.aliexpress.com/_Eu4FFMo) | Aliexpress |
 
 ## Author
 Personal electronics project focused on **learning embedded systems, robotics, and hardware design**.
