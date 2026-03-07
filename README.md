@@ -1,4 +1,4 @@
-# ESP32 FPV Rover
+# ESP32 Rover
 
 ![AI Sketch](images/AI_Sketch.png)
 
